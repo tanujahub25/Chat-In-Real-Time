@@ -68,7 +68,7 @@ Chatter-Box/
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/sahil25123/Chat-app.git
+git clone https://github.com/tanujahub25/Chat-In-Real-Time
 cd Chat-app
 ```
 
